@@ -1,2 +1,3 @@
 This is for git practice
 trying uploading a git repository
+conflict resolve
